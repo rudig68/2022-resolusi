@@ -2,3 +2,4 @@
 - Konsisten untuk menjalankan list multifokus
 - fokus belajar pemograman
 - belajar riset saham dan cryptocurreny
+- membuat website tentang investasi saham dan crypto
